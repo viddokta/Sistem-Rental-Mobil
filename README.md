@@ -4,12 +4,12 @@ Rental Mobil Berbasis website ini memiliki tampilan yang sederhana dan fitur yan
 To access admin page, add url /admin. Example http://localhost/rental_eria/admin
 
 ## Tampilan Aplikasi
-![ss](images/ss1.png)
-![ss](images/ss2.png)
-![ss](images/ss3.png)
-![ss](images/ss4.png)
-![ss](images/ss5.png)
-![ss](images/ss6.png)
+<img width="450px;" src="https://github.com/viddokta/rental-eria/blob/main/assets/ss1.png"/>
+<img width="450px;" src="https://github.com/viddokta/rental-eria/blob/main/assets/ss2.png"/>
+<img width="450px;" src="https://github.com/viddokta/rental-eria/blob/main/assets/ss3.png"/>
+<img width="450px;" src="https://github.com/viddokta/rental-eria/blob/main/assets/ss4.png"/>
+<img width="450px;" src="https://github.com/viddokta/rental-eria/blob/main/assets/ss5.png"/>
+<img width="450px;" src="https://github.com/viddokta/rental-eria/blob/main/assets/ss6.png"/>
 
 ## Admin Account
 |   Level   |     Username      | Password |
